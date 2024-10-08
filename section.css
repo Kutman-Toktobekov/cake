@@ -12,6 +12,31 @@ background-color: rgba(154, 105, 203, 0.1) !important;
 font-size: 17px;
 border-color: rgb(177, 149, 204);
 color: rgb(177, 149, 204);
+text-decoration: none;
+}
+.Mukha2 {
+    text-decoration: none;
+}
+.kulik-text {
+    font-family: "Comfortaa", cursive;
+    width: 100%;
+    text-align: center;
+    margin-top: 380px;
+    margin-bottom: -200px;
+    color: rgb(123, 31, 162);
+    background-color: rgb(217, 190, 242);
+}
+.Kutman3 {
+    text-decoration: none;
+    color: rgb(123, 31, 162);
+}
+.Aidai {
+
+    width: 1350px;
+    background-color: rgb(248, 222, 239);
+}
+.Aidailogo {
+    margin-left: 500px;
 }
 .button2 {
    margin-top: 15px;
@@ -97,3 +122,10 @@ section img {
     margin-top: -200px;
     
 }
+.partners4 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -630px;
+    
+}
+
