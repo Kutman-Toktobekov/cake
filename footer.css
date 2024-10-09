@@ -1,0 +1,42 @@
+footer {
+    background-color: #9a69cb !important;
+    margin-top: 950px;
+    height: 825px;
+    margin-left: -8px;
+}
+.footerinfo {
+   margin-top: 30px;
+   margin-left: 180px;
+ width: 100px;
+}
+.footerinfo2 {
+    margin-top: 30px;
+    margin-left: -10px;
+    width: 90px;
+}
+.footerinfo3 {
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 90px;
+}
+.footerinfo4 {
+    margin-left: -90px;
+    margin-top: 30px;
+    width: 80px;
+    margin-right: 60px;
+}
+.optomfooter {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.Mukha {
+    text-decoration: none;
+    color: white;
+}
+footer p {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: #edf2f8;;
+}
