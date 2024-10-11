@@ -30,6 +30,12 @@ footer {
     justify-content: space-between;
     color: white;
 }
+.optomfooter3 {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-top: -600px;
+}
 .Mukha {
     text-decoration: none;
     color: white;
